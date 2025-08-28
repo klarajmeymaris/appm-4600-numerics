@@ -1,8 +1,7 @@
 # Labs for APPM 4600
 
-## Generic instructions
-- You can work in small groups (3-4 people)
-- You must turn in your work by midnight on the day of the lab
+## This is the solutions branch!
 
-## Submission guidelines
-See [submission_guidelines.md](../Homework/submission_guidelines.md), same as HW submission guidelines
+Please don't look at this until after you've made a full attempt at the lab
+
+Labs are graded based on completion not correctness, so you don't need to look at the correct answer in order to get full credit
